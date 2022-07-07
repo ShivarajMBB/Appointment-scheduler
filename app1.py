@@ -5,7 +5,6 @@ import pickle
 import numpy as np
 from haversine import haversine
 import pandas as pd
-import helper
 import random
 import plotly.express as px
 from sklearn.cluster import AgglomerativeClustering
